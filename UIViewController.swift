@@ -6,7 +6,7 @@ class SomeViewController: UIViewController {
     var someView: someView!
     
     
-    // MARK: - Lifecylce
+    // MARK: - Lifecycle
     
     override func loadView() {
         someView = SomeView()
